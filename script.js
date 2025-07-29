@@ -6,10 +6,10 @@ fetch('oil_data.json').then(r => r.json()).then(data => {
   const sortOrder = document.getElementById('sortOrder');
 
   const percentStats = [
-    "Ammo Consume Chance", "Consume Extra Ammo Chance", "Crit Chance",
+    "Ammo Consume Chance", "Bullet Size", "Consume Extra Ammo Chance", "Crit Chance",
     "Damage Percent", "Jump Power", "Loot Chance Multiplier",
     "Max Durability", "Move Speed", "Projectile Amount", "Recoil",
-    "Reload Speed", "RPM", "Spread", "Bullet Speed"
+    "Reload Speed", "RPM", "Bullet Speed"
   ];
 
   const allStats = Array.from(new Set(data.flatMap(d => d.stats.map(s => s.split(':')[0].trim()))));
