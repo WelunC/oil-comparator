@@ -1,0 +1,1316 @@
+[
+  {
+    "name": "Action Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Action_Oil",
+    "stats": [
+      "Recoil: 1",
+      "Reload Speed: 0.4"
+    ]
+  },
+  {
+    "name": "Add Damage Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Add_Damage_Oil",
+    "stats": [
+      "Damage: 25"
+    ]
+  },
+  {
+    "name": "Aimless Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Aimless_Oil",
+    "stats": [
+      "Crit Chance: 0.3",
+      "Disables Aiming: \u2714"
+    ]
+  },
+  {
+    "name": "Airsoft Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Airsoft_Oil",
+    "stats": [
+      "Damage: -15",
+      "Reload Speed: 0.4",
+      "Drag Mult: 7"
+    ]
+  },
+  {
+    "name": "Altruistic Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Altruistic_Oil",
+    "stats": [
+      "Loot Chance Multiplier: -50 %",
+      "Spread: -0.3"
+    ]
+  },
+  {
+    "name": "Arkanoid Oil",
+    "price": 1200,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Arkanoid_Oil",
+    "stats": [
+      "Bullet Bounces: 13",
+      "Bullet Speed: -0.8"
+    ]
+  },
+  {
+    "name": "Arrow Oil",
+    "price": 200,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Arrow_Oil",
+    "stats": [
+      "Damage Percent: -0.2",
+      "Bullet Speed: 0.8"
+    ]
+  },
+  {
+    "name": "Artery Oil",
+    "price": 300,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Artery_Oil",
+    "stats": [
+      "Bullet Size: -0.5",
+      "Crit Chance: 0.1"
+    ]
+  },
+  {
+    "name": "Artillery Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Artillery_Oil",
+    "stats": [
+      "Bullet Drop: 10",
+      "Spread: -0.9"
+    ]
+  },
+  {
+    "name": "Ascetic Oil",
+    "price": 350,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Ascetic_Oil",
+    "stats": [
+      "Damage: 30",
+      "No Money Drops: \u2714"
+    ]
+  },
+  {
+    "name": "Assassin Dart Oil",
+    "price": 250,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Assassin_Dart_Oil",
+    "stats": [
+      "Damage: 30",
+      "Move Speed: -0.25",
+      "Bullet Speed: 0.7"
+    ]
+  },
+  {
+    "name": "Attack Speed Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Attack_Speed_Oil",
+    "stats": [
+      "RPM: 0.25"
+    ]
+  },
+  {
+    "name": "Axe Oil",
+    "price": 300,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Axe_Oil",
+    "stats": [
+      "Bullet Drop: 10",
+      "Crit Chance: 0.25"
+    ]
+  },
+  {
+    "name": "Bandit Oil",
+    "price": 600,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Bandit_Oil",
+    "stats": [
+      "Bullet Bounces: 1",
+      "No Money Drops: \u2714"
+    ]
+  },
+  {
+    "name": "Black Friday Oil",
+    "price": 300,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Black_Friday_Oil",
+    "stats": [
+      "Damage Percent: -0.15",
+      "Max Durability: -0.33",
+      "Projectile Amount: 1"
+    ]
+  },
+  {
+    "name": "BB Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/BB_Oil",
+    "stats": [
+      "Bullet Size: -0.5",
+      "RPM: 0.2"
+    ]
+  },
+  {
+    "name": "Blindfold Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Blindfold_Oil",
+    "stats": [
+      "Crit Chance: 0.15",
+      "Spread: 2"
+    ]
+  },
+  {
+    "name": "Bombard Oil",
+    "price": 600,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Bombard_Oil",
+    "stats": [
+      "Bullet Drop: 10",
+      "Damage Percent: -10 %",
+      "Projectile Amount: 2"
+    ]
+  },
+  {
+    "name": "Boomstick Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Boomstick_Oil",
+    "stats": [
+      "Damage Percent: -0.25",
+      "Disables Aiming: \u2714",
+      "Projectile Amount: 2",
+      "Recoil: 2",
+      "Spread: 0.7"
+    ]
+  },
+  {
+    "name": "Boulder Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Boulder_Oil",
+    "stats": [
+      "Bullet Bounces: 1",
+      "Bullet Bounciness: 0.8",
+      "Bullet Drop: 10",
+      "Bullet Size: 1",
+      "Damage Percent: 0.2"
+    ]
+  },
+  {
+    "name": "Braced Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Braced_Oil",
+    "stats": [
+      "Jump Power: -0.5",
+      "Recoil: -0.2"
+    ]
+  },
+  {
+    "name": "Brute Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Brute_Oil",
+    "stats": [
+      "Damage: 30",
+      "Spread: 0.7"
+    ]
+  },
+  {
+    "name": "Bulk Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Bulk_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.4",
+      "Bullet Drop: 10"
+    ]
+  },
+  {
+    "name": "Carefree Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Carefree_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.2",
+      "Spread: 1"
+    ]
+  },
+  {
+    "name": "Careful Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Careful_Oil",
+    "stats": [
+      "RPM: -0.25",
+      "Spread: -0.3"
+    ]
+  },
+  {
+    "name": "Careless Splitter Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Careless_Splitter_Oil",
+    "stats": [
+      "Damage Percent: -0.25",
+      "Max Durability: -0.75",
+      "Projectile Amount: 3",
+      "Recoil: 2",
+      "Spread: 2"
+    ]
+  },
+  {
+    "name": "Cartoon Oil",
+    "price": 1000,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Cartoon_Oil",
+    "stats": [
+      "Bullet Bounces: 4",
+      "Recoil: 2"
+    ]
+  },
+  {
+    "name": "Casual Oil",
+    "price": 1000,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Casual_Oil",
+    "stats": [
+      "Loot Chance Multiplier: -0.2",
+      "Recoil: -0.3"
+    ]
+  },
+  {
+    "name": "Cheap Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Cheap_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.3",
+      "Damage Percent: -0.2"
+    ]
+  },
+  {
+    "name": "Contained Force Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Contained_Force_Oil",
+    "stats": [
+      "Max Durability: -0.2",
+      "Recoil: -0.45"
+    ]
+  },
+  {
+    "name": "Critical Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Critical_Oil",
+    "stats": [
+      "Crit Chance: 0.15"
+    ]
+  },
+  {
+    "name": "Damage Oil",
+    "price": 1300,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Damage_Oil",
+    "stats": [
+      "Damage Percent: 0.25"
+    ]
+  },
+  {
+    "name": "Dead Center Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Dead_Center_Oil",
+    "stats": [
+      "Recoil: 1",
+      "Spread: -2"
+    ]
+  },
+  {
+    "name": "Delayed Hyper Tube Oil",
+    "price": 400,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Delayed_Hyper_Tube_Oil",
+    "stats": [
+      "RPM: -0.5",
+      "Bullet Speed: 1"
+    ]
+  },
+  {
+    "name": "Dense Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Dense_Oil",
+    "stats": [
+      "Jump Power: -0.25",
+      "Max Durability: 0.2"
+    ]
+  },
+  {
+    "name": "Detune Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Detune_Oil",
+    "stats": [
+      "Damage Percent: -0.25",
+      "Max Durability: 0.5"
+    ]
+  },
+  {
+    "name": "Discharge Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Discharge_Oil",
+    "stats": [
+      "Consume Extra Ammo Chance: 0.3",
+      "Damage: 30"
+    ]
+  },
+  {
+    "name": "Disposable Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Disposable_Oil",
+    "stats": [
+      "Damage: 50",
+      "Max Durability: -0.75"
+    ]
+  },
+  {
+    "name": "Division Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Division_Oil",
+    "stats": [
+      "Bullet Size: -0.7",
+      "Damage Percent: -0.2",
+      "Projectile Amount: 1",
+      "Spread: 1"
+    ]
+  },
+  {
+    "name": "Do-over Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Do-over_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.2",
+      "RPM: -0.25"
+    ]
+  },
+  {
+    "name": "Double Nothing Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Double_Nothing_Oil",
+    "stats": [
+      "Damage Percent: -0.25",
+      "Loot Chance Multiplier: -1",
+      "Projectile Amount: 1"
+    ]
+  },
+  {
+    "name": "Dum Dum Oil",
+    "price": 1000,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Dum_Dum_Oil",
+    "stats": [
+      "Damage Percent: 0.15",
+      "No Organs Drop: \u2714"
+    ]
+  },
+  {
+    "name": "Easy Oil",
+    "price": 900,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Easy_Oil",
+    "stats": [
+      "No Money Drops: \u2714",
+      "Recoil: -0.2"
+    ]
+  },
+  {
+    "name": "Easy Plop Oil",
+    "price": 300,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Easy_Plop_Oil",
+    "stats": [
+      "Bullet Drop: 5",
+      "Recoil: -0.65"
+    ]
+  },
+  {
+    "name": "Elephant Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Elephant_Oil",
+    "stats": [
+      "Bullet Drop: 10",
+      "Bullet Size: 200",
+      "Damage Percent: -0.25",
+      "Move Speed: -0.5",
+      "Projectile Amount: 2",
+      "Recoil: 0.1",
+      "Spread: 2"
+    ]
+  },
+  {
+    "name": "Exotic Barrel Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Exotic_Barrel_Oil",
+    "stats": [
+      "Max Durability: -0.5",
+      "Spread: -1.5"
+    ]
+  },
+  {
+    "name": "Expander Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Expander_Oil",
+    "stats": [
+      "Damage: 20",
+      "No Organs Drop: \u2714"
+    ]
+  },
+  {
+    "name": "Feature Gun Oil",
+    "price": 1200,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Feature_Gun_Oil",
+    "stats": [
+      "Disables Aiming: \u2714",
+      "Max Durability: 0.3"
+    ]
+  },
+  {
+    "name": "First Blood Oil",
+    "price": 1200,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/First_Blood_Oil",
+    "stats": [
+      "Damage Percent: 0.3",
+      "Spread: 1"
+    ]
+  },
+  {
+    "name": "Flea Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Flea_Oil",
+    "stats": [
+      "Bullet Bounces: 2",
+      "Bullet Size: -50",
+      "Damage Percent: -0.5"
+    ]
+  },
+  {
+    "name": "Flow Funnel Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Flow_Funnel_Oil",
+    "stats": [
+      "Recoil: -0.65",
+      "Spread: 3"
+    ]
+  },
+  {
+    "name": "Food Stamp Oil",
+    "price": 300,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Food_Stamp_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.2",
+      "No Money Drops: \u2714"
+    ]
+  },
+  {
+    "name": "Franciscan Oil",
+    "price": 450,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Franciscan_Oil",
+    "stats": [
+      "Damage Percent: 0.15",
+      "No Money Drops: \u2714"
+    ]
+  },
+  {
+    "name": "Fragile System Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Fragile_System_Oil",
+    "stats": [
+      "Max Durability: -0.3",
+      "RPM: 0.5"
+    ]
+  },
+  {
+    "name": "Frugal Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Frugal_Oil",
+    "stats": [
+      "Damage: 25",
+      "Loot Chance Multiplier: -50 %"
+    ]
+  },
+  {
+    "name": "Gambler Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Gambler_Oil",
+    "stats": [
+      "Crit Chance: 0.2",
+      "Damage Percent: -0.2"
+    ]
+  },
+  {
+    "name": "Gemini Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Gemini_Oil",
+    "stats": [
+      "Damage: -30",
+      "Projectile Amount: 1"
+    ]
+  },
+  {
+    "name": "Gentle Oil",
+    "price": 300,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Gentle_Oil",
+    "stats": [
+      "Bullet Size: -0.3",
+      "Max Durability: 0.1"
+    ]
+  },
+  {
+    "name": "Glass Cannon Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Glass_Cannon_Oil",
+    "stats": [
+      "Damage Percent: 0.25",
+      "Max Durability: -0.35"
+    ]
+  },
+  {
+    "name": "Grounded Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Grounded_Oil",
+    "stats": [
+      "Damage Percent: 0.15",
+      "Jump Power: -0.1"
+    ]
+  },
+  {
+    "name": "Happy Accident Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Happy_Accident_Oil",
+    "stats": [
+      "Crit Chance: 0.15",
+      "Recoil: 0.4"
+    ]
+  },
+  {
+    "name": "Heavy Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Heavy_Oil",
+    "stats": [
+      "Bullet Drop: 10",
+      "Bullet Size: 0.5",
+      "Damage Percent: 0.6"
+    ]
+  },
+  {
+    "name": "Heavy Pockets Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Heavy_Pockets_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.2",
+      "Jump Power: -1"
+    ]
+  },
+  {
+    "name": "Hefty Oil",
+    "price": 1000,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Hefty_Oil",
+    "stats": [
+      "Max Durability: 0.3",
+      "Move Speed: -0.25"
+    ]
+  },
+  {
+    "name": "High Grade Oil",
+    "price": 1200,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/High_Grade_Oil",
+    "stats": [
+      "Max Durability: 0.25"
+    ]
+  },
+  {
+    "name": "Hip Blaster Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Hip_Blaster_Oil",
+    "stats": [
+      "Damage Percent: 0.2",
+      "Disables Aiming: \u2714"
+    ]
+  },
+  {
+    "name": "Hip Marksman Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Hip_Marksman_Oil",
+    "stats": [
+      "Disables Aiming: \u2714",
+      "Spread: -0.3"
+    ]
+  },
+  {
+    "name": "Hoop Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Hoop_Oil",
+    "stats": [
+      "Bullet Bounces: 4",
+      "Bullet Drop: 10"
+    ]
+  },
+  {
+    "name": "Hunter Oil",
+    "price": 1100,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Hunter_Oil",
+    "stats": [
+      "Crit Chance: 0.15",
+      "Move Speed: -0.3"
+    ]
+  },
+  {
+    "name": "Hustler Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Hustler_Oil",
+    "stats": [
+      "Crit Chance: 0.25",
+      "Damage: -30"
+    ]
+  },
+  {
+    "name": "Imperfect Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Imperfect_Oil",
+    "stats": [
+      "Bullet Bounces: 2",
+      "Max Durability: -0.15"
+    ]
+  },
+  {
+    "name": "Inherited Oil",
+    "price": 1500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Inherited_Oil",
+    "stats": [
+      "Loot Chance Multiplier: -1",
+      "Max Durability: 0.5"
+    ]
+  },
+  {
+    "name": "Judgement Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Judgement_Oil",
+    "stats": [
+      "Damage: 25",
+      "Move Speed: -0.15"
+    ]
+  },
+  {
+    "name": "Keep Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Keep_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.2",
+      "No Organs Drop: \u2714"
+    ]
+  },
+  {
+    "name": "Kicker Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Kicker_Oil",
+    "stats": [
+      "Damage: 20",
+      "Recoil: 0.5"
+    ]
+  },
+  {
+    "name": "Last Drop Oil",
+    "price": 250,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Last_Drop_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.3",
+      "Max Durability: -0.25"
+    ]
+  },
+  {
+    "name": "Lazy Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Lazy_Oil",
+    "stats": [
+      "Bullet Bounces: 1",
+      "Reload Speed: -0.1"
+    ]
+  },
+  {
+    "name": "Less Recoil Oil",
+    "price": 1200,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Less_Recoil_Oil",
+    "stats": [
+      "Recoil: -0.25"
+    ]
+  },
+  {
+    "name": "Longshot Oil",
+    "price": 1200,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Longshot_Oil",
+    "stats": [
+      "Bullet Bounces: 3",
+      "Disables Aiming: \u2714"
+    ]
+  },
+  {
+    "name": "Lost In Focus Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Lost_In_Focus_Oil",
+    "stats": [
+      "Consume Extra Ammo Chance: 0.3",
+      "Spread: -0.6"
+    ]
+  },
+  {
+    "name": "Low Roller Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Low_Roller_Oil",
+    "stats": [
+      "Crit Chance: 0.1",
+      "No Money Drops: \u2714"
+    ]
+  },
+  {
+    "name": "Machine Oil",
+    "price": 1000,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Machine_Oil",
+    "stats": [
+      "Move Speed: -0.5",
+      "RPM: 0.5"
+    ]
+  },
+  {
+    "name": "Modern Technology Oil",
+    "price": 600,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Modern_Technology_Oil",
+    "stats": [
+      "Consume Extra Ammo Chance: 0.1",
+      "Recoil: -0.25"
+    ]
+  },
+  {
+    "name": "Multichamber Oil",
+    "price": 1200,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Multichamber_Oil",
+    "stats": [
+      "Consume Extra Ammo Chance: 1",
+      "Projectile Amount: 1"
+    ]
+  },
+  {
+    "name": "Multishot Oil",
+    "price": 600,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Multishot_Oil",
+    "stats": [
+      "Damage Percent: -0.7",
+      "Projectile Amount: 2"
+    ]
+  },
+  {
+    "name": "No Look Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/No_Look_Oil",
+    "stats": [
+      "Disables Aiming: \u2714",
+      "RPM: 0.3"
+    ]
+  },
+  {
+    "name": "No Need Oil",
+    "price": 1000,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/No_Need_Oil",
+    "stats": [
+      "Crit Chance: 0.15",
+      "Loot Chance Multiplier: -0.25"
+    ]
+  },
+  {
+    "name": "Out of the Box Oil",
+    "price": 400,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Out_of_the_Box_Oil",
+    "stats": [
+      "Crit Chance: 0.2",
+      "Max Durability: -0.3"
+    ]
+  },
+  {
+    "name": "Overclock Oil",
+    "price": 1000,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Overclock_Oil",
+    "stats": [
+      "Consume Extra Ammo Chance: 0.3",
+      "Damage Percent: 0.4"
+    ]
+  },
+  {
+    "name": "Peashooter Oil",
+    "price": 1000,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Peashooter_Oil",
+    "stats": [
+      "Bullet Size: -1",
+      "Recoil: -0.2"
+    ]
+  },
+  {
+    "name": "Perfect Bounce Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Perfect_Bounce_Oil",
+    "stats": [
+      "Bullet Bounces: 1"
+    ]
+  },
+  {
+    "name": "Plinker Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Plinker_Oil",
+    "stats": [
+      "Damage Percent: -0.2",
+      "Spread: -0.9"
+    ]
+  },
+  {
+    "name": "Plop Back Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Plop_Back_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.2",
+      "Recoil: 1.25"
+    ]
+  },
+  {
+    "name": "Pool Oil",
+    "price": 1200,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Pool_Oil",
+    "stats": [
+      "Bullet Bounces: 4",
+      "Move Speed: -0.3"
+    ]
+  },
+  {
+    "name": "Potshot Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Potshot_Oil",
+    "stats": [
+      "Damage: 35",
+      "Disables Aiming: \u2714"
+    ]
+  },
+  {
+    "name": "Puncher Oil",
+    "price": 1200,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Puncher_Oil",
+    "stats": [
+      "Damage Percent: 0.3",
+      "Recoil: 1.5"
+    ]
+  },
+  {
+    "name": "Puncture Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Puncture_Oil",
+    "stats": [
+      "Crit Chance: 0.15",
+      "No Organs Drop: \u2714"
+    ]
+  },
+  {
+    "name": "Ready Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Ready_Oil",
+    "stats": [
+      "Recoil: -0.45",
+      "RPM: -0.4"
+    ]
+  },
+  {
+    "name": "Rebound Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Rebound_Oil",
+    "stats": [
+      "Bullet Bounces: 2",
+      "Damage: -15"
+    ]
+  },
+  {
+    "name": "Recycle Oil",
+    "price": 1000,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Recycle_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.15"
+    ]
+  },
+  {
+    "name": "Release Oil",
+    "price": 1100,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Release_Oil",
+    "stats": [
+      "Max Durability: 0.4",
+      "Recoil: 1.5"
+    ]
+  },
+  {
+    "name": "Ricochet Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Ricochet_Oil",
+    "stats": [
+      "Bullet Bounces: 3",
+      "Damage Percent: -0.1"
+    ]
+  },
+  {
+    "name": "Rigid System Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Rigid_System_Oil",
+    "stats": [
+      "Consume Extra Ammo Chance: 0.2",
+      "Max Durability: 0.4"
+    ]
+  },
+  {
+    "name": "Rubber Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Rubber_Oil",
+    "stats": [
+      "Damage: -10",
+      "Max Durability: 0.25"
+    ]
+  },
+  {
+    "name": "Safety Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Safety_Oil",
+    "stats": [
+      "Damage Percent: -0.1",
+      "Recoil: -0.35"
+    ]
+  },
+  {
+    "name": "Saviour Oil",
+    "price": 900,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Saviour_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.4",
+      "Loot Chance Multiplier: -1"
+    ]
+  },
+  {
+    "name": "Scatter Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Scatter_Oil",
+    "stats": [
+      "Damage Percent: -0.15",
+      "Projectile Amount: 1",
+      "Spread: 1"
+    ]
+  },
+  {
+    "name": "Scramble Oil",
+    "price": 600,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Scramble_Oil",
+    "stats": [
+      "Bullet Bounces: 1",
+      "No Organs Drop: \u2714"
+    ]
+  },
+  {
+    "name": "Seated Fit Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Seated_Fit_Oil",
+    "stats": [
+      "Bullet Drop: 10",
+      "Max Durability: 0.7"
+    ]
+  },
+  {
+    "name": "Seated Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Seated_Oil",
+    "stats": [
+      "Damage: 20",
+      "Jump Power: -0.1"
+    ]
+  },
+  {
+    "name": "Sender Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Sender_Oil",
+    "stats": [
+      "Damage: 25",
+      "RPM: -0.25"
+    ]
+  },
+  {
+    "name": "Sensible Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Sensible_Oil",
+    "stats": [
+      "Max Durability: 0.2",
+      "No Organs Drop: \u2714"
+    ]
+  },
+  {
+    "name": "Sherlock Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Sherlock_Oil",
+    "stats": [
+      "Bullet Bounces: 4",
+      "RPM: -0.5"
+    ]
+  },
+  {
+    "name": "Shower Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Shower_Oil",
+    "stats": [
+      "Bullet Drop: 10",
+      "RPM: 0.4"
+    ]
+  },
+  {
+    "name": "Shredder Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Shredder_Oil",
+    "stats": [
+      "Damage Percent: -0.2",
+      "No Organs Drop: \u2714",
+      "Projectile Amount: 1",
+      "Spread: 1"
+    ]
+  },
+  {
+    "name": "Skip Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Skip_Oil",
+    "stats": [
+      "Bullet Bounces: 1",
+      "Loot Chance Multiplier: -0.25"
+    ]
+  },
+  {
+    "name": "Slick Oil",
+    "price": 1000,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Slick_Oil",
+    "stats": [
+      "Jump Power: -0.1",
+      "Spread: -0.3"
+    ]
+  },
+  {
+    "name": "Slippy Coating Oil",
+    "price": 1200,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Slippy_Coating_Oil",
+    "stats": [
+      "Max Durability: 0.3",
+      "Spread: 1"
+    ]
+  },
+  {
+    "name": "Slotmachine Oil",
+    "price": 700,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Slotmachine_Oil",
+    "stats": [
+      "Consume Extra Ammo Chance: 0.2",
+      "Crit Chance: 0.25"
+    ]
+  },
+  {
+    "name": "Solid Oil",
+    "price": 350,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Solid_Oil",
+    "stats": [
+      "Bullet Drop: 10",
+      "Bullet Size: 0.5",
+      "Damage: 40"
+    ]
+  },
+  {
+    "name": "Spartan Oil",
+    "price": 1000,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Spartan_Oil",
+    "stats": [
+      "Damage Percent: 0.2",
+      "Loot Chance Multiplier: -0.5"
+    ]
+  },
+  {
+    "name": "Spread Oil",
+    "price": 900,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Spread_Oil",
+    "stats": [
+      "Spread: -0.3"
+    ]
+  },
+  {
+    "name": "Stability Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Stability_Oil",
+    "stats": [
+      "Damage: -15",
+      "Recoil: -0.35"
+    ]
+  },
+  {
+    "name": "Stable Hip Oil",
+    "price": 1100,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Stable_Hip_Oil",
+    "stats": [
+      "Disables Aiming: \u2714",
+      "Recoil: -0.62"
+    ]
+  },
+  {
+    "name": "Stationary Oil",
+    "price": 1200,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Stationary_Oil",
+    "stats": [
+      "Jump Power: -0.9",
+      "Move Speed: -0.9",
+      "Recoil: -0.85",
+      "RPM: 0.8"
+    ]
+  },
+  {
+    "name": "Stiffy Fit Oil",
+    "price": 900,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Stiffy_Fit_Oil",
+    "stats": [
+      "Max Durability: 0.45",
+      "Reload Speed: -0.5"
+    ]
+  },
+  {
+    "name": "Stoic Oil",
+    "price": 1100,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Stoic_Oil",
+    "stats": [
+      "No Money Drops: \u2714",
+      "Spread: -0.3"
+    ]
+  },
+  {
+    "name": "Synchronicity Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Synchronicity_Oil",
+    "stats": [
+      "Bullet Bounces: 3",
+      "Consume Extra Ammo Chance: 0.3"
+    ]
+  },
+  {
+    "name": "Tandem Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Tandem_Oil",
+    "stats": [
+      "Damage Percent: -0.15",
+      "Projectile Amount: 1"
+    ]
+  },
+  {
+    "name": "Tension Oil",
+    "price": 1100,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Tension_Oil",
+    "stats": [
+      "Move Speed: -0.15",
+      "Recoil: -0.35"
+    ]
+  },
+  {
+    "name": "Terminator Oil",
+    "price": 1000,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Terminator_Oil",
+    "stats": [
+      "Damage Percent: 0.25",
+      "Move Speed: -0.15"
+    ]
+  },
+  {
+    "name": "Thorough Oil",
+    "price": 900,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Thorough_Oil",
+    "stats": [
+      "Move Speed: -0.15",
+      "Spread: -0.35"
+    ]
+  },
+  {
+    "name": "Trusty Old Oil",
+    "price": 750,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Trusty_Old_Oil",
+    "stats": [
+      "Max Durability: 0.2",
+      "No Money Drops: \u2714"
+    ]
+  },
+  {
+    "name": "Twice Oil",
+    "price": 1000,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Twice_Oil",
+    "stats": [
+      "Damage Percent: -0.25",
+      "Projectile Amount: 1"
+    ]
+  },
+  {
+    "name": "Two Time Oil",
+    "price": 1300,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Two_Time_Oil",
+    "stats": [
+      "Damage Percent: -0.1",
+      "No Money Drops: \u2714",
+      "Projectile Amount: 2",
+      "Spread: 3"
+    ]
+  },
+  {
+    "name": "Vegan Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Vegan_Oil",
+    "stats": [
+      "No Organs Drop: \u2714",
+      "Spread: -0.2"
+    ]
+  },
+  {
+    "name": "Vegetable Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Vegetable_Oil",
+    "stats": [
+      "No Organs Drop: \u2714",
+      "Recoil: -0.2"
+    ]
+  },
+  {
+    "name": "Walk Easy Oil",
+    "price": 250,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Walk_Easy_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.15",
+      "Move Speed: -0.1"
+    ]
+  },
+  {
+    "name": "Whos Counting Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Whos_Counting_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.25",
+      "Disables Aiming: \u2714"
+    ]
+  },
+  {
+    "name": "Wobble Oil",
+    "price": 800,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Wobble_Oil",
+    "stats": [
+      "Bullet Bounces: 1",
+      "Spread: 1"
+    ]
+  },
+  {
+    "name": "Mosquito Oil",
+    "price": 650,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Mosquito_Oil",
+    "stats": [
+      "Ammo Consume Chance: -0.7",
+      "Damage Percent: -0.3",
+      "Bullet Speed: -0.3"
+    ]
+  },
+  {
+    "name": "Matrix Oil",
+    "price": 0,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Matrix_Oil",
+    "stats": [
+      "Damage Percent: -0.3",
+      "Projectile Amount: 3",
+      "Spread: 4",
+      "Drag Mult: 40",
+      "Bullet Speed: -0.9"
+    ]
+  },
+  {
+    "name": "Hyper Lead Oil",
+    "price": 0,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Hyper_Lead_Oil",
+    "stats": [
+      "Bullet Drop: 40",
+      "Damage Percent: 0.4",
+      "Bullet Speed: 1"
+    ]
+  }
+]
