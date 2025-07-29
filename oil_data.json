@@ -1303,15 +1303,15 @@
     ]
   },
   {
-  "name": "Big Oil",
-  "price": 500,
-  "wiki_link": "https://sulfur.wiki.gg/wiki/Big_Oil",
-  "stats": [
-    "Damage: +30",
-    "Bullet Speed: -.2",
-    "Bullet Drop: +20"
-  ]
-},
+    "name": "Big Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Big_Oil",
+    "stats": [
+      "Damage: +30",
+      "Bullet Speed: -.2",
+      "Bullet Drop: +20"
+    ]
+  },
   {
     "name": "Hyper Lead Oil",
     "price": 800,
@@ -1322,236 +1322,351 @@
       "Bullet Speed: 1"
     ]
   },
-{
-  "name": "Bad Planet Oil",
-  "price": 500,
-  "wiki_link": "https://sulfur.wiki.gg/wiki/Bad_Planet_Oil",
-  "stats": [
-    "Bullet Penetrations: +1",
-    "Jump Power: -30%"
-  ]
-},
- {
+  {
+    "name": "Bad Planet Oil",
+    "price": 500,
+    "wiki_link": "https://sulfur.wiki.gg/wiki/Bad_Planet_Oil",
+    "stats": [
+      "Bullet Penetrations: +1",
+      "Jump Power: -30%"
+    ]
+  },
+  {
     "name": "Blurt Oil",
     "price": 300,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Blurt_Oil",
-    "stats": ["Rate of Fire: +30%", "Bullet Speed: -20%"]
+    "stats": [
+      "Rate of Fire: +30%",
+      "Bullet Speed: -20%"
+    ]
   },
   {
     "name": "Bolt Oil",
     "price": 370,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Bolt_Oil",
-    "stats": ["Damage: -30", "Bullet Speed: +50%"]
+    "stats": [
+      "Damage: -30",
+      "Bullet Speed: +50%"
+    ]
   },
   {
     "name": "Bowl Oil",
     "price": 800,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Bowl_Oil",
-    "stats": ["Spread: -0.5", "Bullet Speed: -20%"]
+    "stats": [
+      "Spread: -0.5",
+      "Bullet Speed: -20%"
+    ]
   },
   {
     "name": "Bystander Oil",
     "price": 500,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Bystander_Oil",
-    "stats": ["Bullet Penetrations: +1", "Disable Aim: ✓"]
+    "stats": [
+      "Bullet Penetrations: +1",
+      "Disable Aim: \u2713"
+    ]
   },
   {
     "name": "Collateral Oil",
     "price": 350,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Collateral_Oil",
-    "stats": ["Recoil: +100%", "Bullet Penetrations: +2"]
+    "stats": [
+      "Recoil: +100%",
+      "Bullet Penetrations: +2"
+    ]
   },
   {
     "name": "Complicated Oil",
     "price": 800,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Complicated_Oil",
-    "stats": ["Damage: +30%", "Reload Speed: -25%"]
+    "stats": [
+      "Damage: +30%",
+      "Reload Speed: -25%"
+    ]
   },
   {
     "name": "Compo Oil",
     "price": 1100,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Compo_Oil",
-    "stats": ["Spread: -10%", "Recoil: -10%", "Reload Speed: +80%", "Movement Speed: -60%"]
+    "stats": [
+      "Spread: -10%",
+      "Recoil: -10%",
+      "Reload Speed: +80%",
+      "Movement Speed: -60%"
+    ]
   },
   {
     "name": "Confidence Oil",
     "price": 750,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Confidence_Oil",
-    "stats": ["Crit Chance: +20%", "Reload Speed: -25%"]
+    "stats": [
+      "Crit Chance: +20%",
+      "Reload Speed: -25%"
+    ]
   },
   {
     "name": "Considerate Oil",
     "price": 300,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Considerate_Oil",
-    "stats": ["Damage: -25", "Bullet Penetrations: +1"]
+    "stats": [
+      "Damage: -25",
+      "Bullet Penetrations: +1"
+    ]
   },
   {
     "name": "Cycle Oil",
     "price": 800,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Cycle_Oil",
-    "stats": ["Spread: +1", "Reload Speed: +25%"]
+    "stats": [
+      "Spread: +1",
+      "Reload Speed: +25%"
+    ]
   },
   {
     "name": "Dart Oil",
     "price": 230,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Dart_Oil",
-    "stats": ["Bullet Speed: +50%", "Jump Power: -25%"]
+    "stats": [
+      "Bullet Speed: +50%",
+      "Jump Power: -25%"
+    ]
   },
   {
     "name": "Diesel Oil",
     "price": 225,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Diesel_Oil",
-    "stats": ["Recoil: +30%", "Bullet Speed: +50%"]
+    "stats": [
+      "Recoil: +30%",
+      "Bullet Speed: +50%"
+    ]
   },
   {
     "name": "Double Fire Oil",
     "price": 800,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Double_Fire_Oil",
-    "stats": ["Rate of Fire: +50%", "Extra Ammo Consume Chance: +25%"]
+    "stats": [
+      "Rate of Fire: +50%",
+      "Extra Ammo Consume Chance: +25%"
+    ]
   },
   {
     "name": "Double Lock Oil",
     "price": 800,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Double_Lock_Oil",
-    "stats": ["Rate of Fire: -25%", "Reload Speed: +35%"]
+    "stats": [
+      "Rate of Fire: -25%",
+      "Reload Speed: +35%"
+    ]
   },
   {
     "name": "Dynamic Oil",
     "price": 450,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Dynamic_Oil",
-    "stats": ["Damage: -30", "Reload Speed: +40%"]
+    "stats": [
+      "Damage: -30",
+      "Reload Speed: +40%"
+    ]
   },
   {
     "name": "Extra Powder Oil",
     "price": 400,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Extra_Powder_Oil",
-    "stats": ["Reload Speed: -25%", "Bullet Speed: +50%"]
+    "stats": [
+      "Reload Speed: -25%",
+      "Bullet Speed: +50%"
+    ]
   },
   {
     "name": "Farsighted Oil",
     "price": 200,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Farsighted_Oil",
-    "stats": ["Bullet Penetrations: +2", "Extra Ammo Consume Chance: +30%"]
+    "stats": [
+      "Bullet Penetrations: +2",
+      "Extra Ammo Consume Chance: +30%"
+    ]
   },
   {
     "name": "Fast Bet Oil",
     "price": 450,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Fast_Bet_Oil",
-    "stats": ["Bullet Speed: +50%", "No Money drops: ✓"]
+    "stats": [
+      "Bullet Speed: +50%",
+      "No Money drops: \u2713"
+    ]
   },
   {
     "name": "Fidget Lord Oil",
     "price": 1000,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Fidget_Lord_Oil",
-    "stats": ["Reload Speed: +70%", "Movement Speed: -60%"]
+    "stats": [
+      "Reload Speed: +70%",
+      "Movement Speed: -60%"
+    ]
   },
   {
     "name": "Fidget Oil",
     "price": 450,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Fidget_Oil",
-    "stats": ["Damage: +20", "Reload Speed: -25%"]
+    "stats": [
+      "Damage: +20",
+      "Reload Speed: -25%"
+    ]
   },
   {
     "name": "Great Oil",
     "price": 450,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Great_Oil",
-    "stats": ["Damage: +40%", "Bullet Speed: -20%", "Bullet Drop: +40"]
+    "stats": [
+      "Damage: +40%",
+      "Bullet Speed: -20%",
+      "Bullet Drop: +40"
+    ]
   },
   {
     "name": "Gunslinger Oil",
     "price": 900,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Gunslinger_Oil",
-    "stats": ["Reload Speed: +40%", "Disable Aim: ✓"]
+    "stats": [
+      "Reload Speed: +40%",
+      "Disable Aim: \u2713"
+    ]
   },
   {
     "name": "Heavy Lead Oil",
     "price": 100,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Heavy_Lead_Oil",
-    "stats": ["Bullet Penetrations: +2", "Bullet Drop: +20"]
+    "stats": [
+      "Bullet Penetrations: +2",
+      "Bullet Drop: +20"
+    ]
   },
   {
     "name": "Helium Oil",
     "price": 650,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Helium_Oil",
-    "stats": ["Bullet Speed: -40%", "Ammo Consume Chance: -40%"]
+    "stats": [
+      "Bullet Speed: -40%",
+      "Ammo Consume Chance: -40%"
+    ]
   },
   {
     "name": "Inconsiderate Oil",
     "price": 250,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Inconsiderate_Oil",
-    "stats": ["Spread: +2", "Bullet Penetrations: +1"]
+    "stats": [
+      "Spread: +2",
+      "Bullet Penetrations: +1"
+    ]
   },
   {
     "name": "Instant Oil",
     "price": 500,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Instant_Oil",
-    "stats": ["Bullet Speed: +200%", "Disable Aim: ✓"]
+    "stats": [
+      "Bullet Speed: +200%",
+      "Disable Aim: \u2713"
+    ]
   },
   {
     "name": "Jungian Oil",
     "price": 600,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Jungian_Oil",
-    "stats": ["Bullet Penetrations: +1", "Movement Speed: -15%"]
+    "stats": [
+      "Bullet Penetrations: +1",
+      "Movement Speed: -15%"
+    ]
   },
   {
     "name": "Kinetic Oil",
     "price": 350,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Kinetic_Oil",
-    "stats": ["Bullet Speed: +80%", "Bullet Drop: +20"]
+    "stats": [
+      "Bullet Speed: +80%",
+      "Bullet Drop: +20"
+    ]
   },
   {
     "name": "Late Boom Oil",
     "price": 150,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Late_Boom_Oil",
-    "stats": ["Damage: +30", "Bullet Speed: -30%"]
+    "stats": [
+      "Damage: +30",
+      "Bullet Speed: -30%"
+    ]
   },
   {
     "name": "Launcher Oil",
     "price": 800,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Launcher_Oil",
-    "stats": ["Damage: +20%", "Rate of Fire: -25%"]
+    "stats": [
+      "Damage: +20%",
+      "Rate of Fire: -25%"
+    ]
   },
   {
     "name": "Lightweight Oil",
     "price": 700,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Lightweight_Oil",
-    "stats": ["Rate of Fire: +50%", "Recoil: +50%"]
+    "stats": [
+      "Rate of Fire: +50%",
+      "Recoil: +50%"
+    ]
   },
   {
     "name": "Main Discipline Oil",
     "price": 650,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Main_Discipline_Oil",
-    "stats": ["Reload Speed: +30%", "Loot Chance: -50%"]
+    "stats": [
+      "Reload Speed: +30%",
+      "Loot Chance: -50%"
+    ]
   },
   {
     "name": "Main Focus Oil",
     "price": 700,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Main_Focus_Oil",
-    "stats": ["Reload Speed: +20%", "No Money drops: ✓"]
+    "stats": [
+      "Reload Speed: +20%",
+      "No Money drops: \u2713"
+    ]
   },
   {
     "name": "Manifestation Oil",
     "price": 1100,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Manifestation_Oil",
-    "stats": ["Crit Chance: +25%", "Reload Speed: -50%"]
+    "stats": [
+      "Crit Chance: +25%",
+      "Reload Speed: -50%"
+    ]
   },
   {
     "name": "Micro Wing Oil",
     "price": 300,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Micro_Wing_Oil",
-    "stats": ["Bullet Speed: +80%", "Extra Ammo Consume Chance: +20%"]
+    "stats": [
+      "Bullet Speed: +80%",
+      "Extra Ammo Consume Chance: +20%"
+    ]
   },
   {
     "name": "Needleye Oil",
     "price": 200,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Needleye_Oil",
-    "stats": ["Rate of Fire: -25%", "Bullet Penetrations: +1"]
+    "stats": [
+      "Rate of Fire: -25%",
+      "Bullet Penetrations: +1"
+    ]
   },
   {
     "name": "Nerf Oil",
     "price": 650,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Nerf_Oil",
-    "stats": ["Damage: -10%", "Reload Speed: +50%", "Bullet Drop: +5"]
+    "stats": [
+      "Damage: -10%",
+      "Reload Speed: +50%",
+      "Bullet Drop: +5"
+    ]
   },
   {
     "name": "Overdose Oil",
@@ -1585,7 +1700,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Perforate_Oil",
     "stats": [
       "Rate of Fire: +20%",
-      "No Organs drop: ✗"
+      "No Organs drop: \u2717"
     ]
   },
   {
@@ -1639,7 +1754,7 @@
     "stats": [
       "Rate of Fire: -25%",
       "Max Durability: +35%",
-      "Does not increase durability loss: ✓"
+      "Does not increase durability loss: \u2713"
     ]
   },
   {
@@ -1675,7 +1790,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Sect_Oil",
     "stats": [
       "Bullet Penetrations: +1",
-      "No Money drops: ✓"
+      "No Money drops: \u2713"
     ]
   },
   {
@@ -1721,7 +1836,7 @@
     "stats": [
       "Bullet Speed: -30%",
       "Max Durability: +25%",
-      "Does not increase durability loss: ✓"
+      "Does not increase durability loss: \u2713"
     ]
   },
   {
@@ -1776,7 +1891,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Task_Oil",
     "stats": [
       "Reload Speed: +30%",
-      "No Organs drop: ✗"
+      "No Organs drop: \u2717"
     ]
   },
   {
@@ -1803,7 +1918,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Too_Much_Oil",
     "stats": [
       "Bullet Penetrations: +1",
-      "No Organs drop: ✗"
+      "No Organs drop: \u2717"
     ]
   },
   {
@@ -1812,7 +1927,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Turbulence_Oil",
     "stats": [
       "Bullet Speed: +50%",
-      "No Organs drop: ✗"
+      "No Organs drop: \u2717"
     ]
   },
   {
@@ -1847,7 +1962,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Waster_Oil",
     "stats": [
       "Rate of Fire: +20%",
-      "No Money drops: ✓"
+      "No Money drops: \u2713"
     ]
   },
   {
