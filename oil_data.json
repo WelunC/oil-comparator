@@ -1427,7 +1427,6 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Extra_Powder_Oil",
     "stats": ["Reload Speed: -25%", "Bullet Speed: +50%"]
   },
-  [
   {
     "name": "Farsighted Oil",
     "price": 200,
@@ -1488,7 +1487,6 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Instant_Oil",
     "stats": ["Bullet Speed: +200%", "Disable Aim: ✓"]
   },
-  [
   {
     "name": "Jungian Oil",
     "price": 600,
@@ -1555,7 +1553,6 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Nerf_Oil",
     "stats": ["Damage: -10%", "Reload Speed: +50%", "Bullet Drop: +5"]
   },
-  [
   {
     "name": "Overdose Oil",
     "price": 100,
@@ -1745,7 +1742,6 @@
       "Spread: +1"
     ]
   },
-  [
   {
     "name": "Supressive Oil",
     "price": 300,
@@ -1881,8 +1877,4 @@
       "Bullet Speed: +80%"
     ]
   }
-]
-  ]
-]
-  ]
 ]
