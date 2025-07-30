@@ -12,18 +12,22 @@ fetch('oil_data.json').then(r => r.json()).then(data => {
     "Reload Speed", "RPM", "Bullet Speed"
   ];
 
-  const allStats = Array.from(new Set(data.flatMap(d => d.stats.map(s => s.split(':')[0].trim()))));
-  allStats.forEach(stat => {
-    const o1 = document.createElement('option');
-    o1.value = stat;
-    o1.textContent = stat;
-    filter1.appendChild(o1);
+let allStats = Array.from(new Set(data.flatMap(d => d.stats.map(s => s.split(':')[0].trim()))));
+allStats = allStats.filter(stat => stat !== "Primary Stat");
+allStats.sort((a, b) => a.localeCompare(b));
+const statsToAdd = [...allStats];
 
-    const o2 = document.createElement('option');
-    o2.value = stat;
-    o2.textContent = stat;
-    filter2.appendChild(o2);
-  });
+for (const stat of statsToAdd) {
+  const o1 = document.createElement('option');
+  o1.value = stat;
+  o1.textContent = stat;
+  filter1.appendChild(o1);
+
+  const o2 = document.createElement('option');
+  o2.value = stat;
+  o2.textContent = stat;
+  filter2.appendChild(o2);
+}
 
   const normalize = s => s.toLowerCase().replace('%', '').replace(/\s+/g, '');
   const extractValue = s => {
