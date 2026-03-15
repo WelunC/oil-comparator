@@ -5,64 +5,124 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Oil Comparator</title>
   <style>
-      body {
-          font-family: sans-serif;
-          padding: 2rem;
-          background: #f9f9f9;
-      }
+    :root {
+      --bg: #f9f9f9;
+      --text: #111111;
+      --card-bg: #ffffff;
+      --card-border: #cccccc;
+      --input-bg: #ffffff;
+      --input-text: #111111;
+      --link: #0645ad;
+      --shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+      --highlight: #000000;
+    }
 
-      input, select {
-          margin: 0.5rem 1rem 0.5rem 0;
-          padding: 0.5rem;
-      }
+    body.dark-mode {
+      --bg: #121212;
+      --text: #f1f1f1;
+      --card-bg: #1e1e1e;
+      --card-border: #3a3a3a;
+      --input-bg: #2a2a2a;
+      --input-text: #f1f1f1;
+      --link: #7db7ff;
+      --shadow: 0 1px 6px rgba(0, 0, 0, 0.4);
+      --highlight: #ffffff;
+    }
 
-      #results {
-          display: grid;
-          grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-          gap: 1rem;
-          margin-top: 1rem;
-      }
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+      background: var(--bg);
+      color: var(--text);
+      transition: background 0.2s ease, color 0.2s ease;
+    }
 
-      .oil-card {
-          background: #fff;
-          border: 1px solid #ccc;
-          border-radius: 8px;
-          padding: 1rem;
-          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
-      }
+    .top-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-bottom: 1rem;
+    }
 
-          .oil-card a {
-              font-weight: bold;
-              color: #0645ad;
-              text-decoration: none;
-              font-size: 1.1rem;
-          }
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+    }
 
-              .oil-card a:hover {
-                  text-decoration: underline;
-              }
+    input,
+    select,
+    button {
+      margin: 0;
+      padding: 0.5rem;
+      background: var(--input-bg);
+      color: var(--input-text);
+      border: 1px solid var(--card-border);
+      border-radius: 6px;
+    }
 
-          .oil-card ul {
-              margin-top: 0.5rem;
-              padding-left: 1.2rem;
-          }
+    button {
+      cursor: pointer;
+    }
 
-      .highlight {
-          font-weight: bold;
-          color: #000;
-      }
+    #results {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .oil-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 8px;
+      padding: 1rem;
+      box-shadow: var(--shadow);
+      transition: background 0.2s ease, border-color 0.2s ease;
+    }
+
+    .oil-card a {
+      font-weight: bold;
+      color: var(--link);
+      text-decoration: none;
+      font-size: 1.1rem;
+    }
+
+    .oil-card a:hover {
+      text-decoration: underline;
+    }
+
+    .oil-card ul {
+      margin-top: 0.5rem;
+      padding-left: 1.2rem;
+    }
+
+    .highlight {
+      font-weight: bold;
+      color: var(--highlight);
+    }
   </style>
 </head>
 <body>
-  <h1>Oil Comparator</h1>
-  <input id="search" type="text" placeholder="Search by name..." />
-  <select id="filter1"><option value="">Primary Stat</option></select>
-  <select id="filter2"><option value="">Secondary Stat</option></select>
-  <select id="sortOrder">
-    <option value="none">Sort by Value</option>
-    <option value="asc">Lowest to Highest</option>
-    <option value="desc">Highest to Lowest</option>
-  </select>
+  <div class="top-bar">
+    <h1>Oil Comparator</h1>
+    <button id="themeToggle">Toggle Dark Mode</button>
+  </div>
+
+  <div class="controls">
+    <input id="search" type="text" placeholder="Search by name..." />
+    <select id="filter1"><option value="">Primary Stat</option></select>
+    <select id="filter2"><option value="">Secondary Stat</option></select>
+    <select id="sortOrder">
+      <option value="none">Sort by Value</option>
+      <option value="asc">Lowest to Highest</option>
+      <option value="desc">Highest to Lowest</option>
+    </select>
+  </div>
+
   <div id="results"></div>
   <script src="script.js"></script>
 </body>
