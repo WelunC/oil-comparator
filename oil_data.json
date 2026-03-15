@@ -139,7 +139,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Bandit_Oil",
     "stats": [
       "Bullet Bounces: 2",
-      "NoMoney: '''X'''"
+      "No Money Drops"
     ]
   },
   {
@@ -536,7 +536,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Dum_Dum_Oil",
     "stats": [
       "Damage Percent: 0.22",
-      "NoOrgans: '''X'''"
+      "No Organs Drop"
     ]
   },
   {
@@ -595,7 +595,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Expander_Oil",
     "stats": [
       "Damage: 20",
-      "NoOrgans: '''X'''"
+      "No Organs Drop"
     ]
   },
   {
@@ -705,7 +705,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Franciscan_Oil",
     "stats": [
       "Damage Percent: 0.2",
-      "NoMoney: '''X'''"
+      "No Money Drops"
     ]
   },
   {
@@ -964,7 +964,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Keep_Oil",
     "stats": [
       "Ammo Consume Chance: -0.2",
-      "NoOrgans: '''X'''"
+      "No Organs Drop"
     ]
   },
   {
@@ -1062,7 +1062,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Low_Roller_Oil",
     "stats": [
       "Crit Chance: 0.1",
-      "NoMoney: '''X'''"
+      "No Money Drops"
     ]
   },
   {
@@ -1088,7 +1088,7 @@
     "price": 700,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Main_Focus_Oil",
     "stats": [
-      "NoMoney: '''X'''",
+      "No Money Drops",
       "Reload Speed: 0.5"
     ]
   },
@@ -1266,7 +1266,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Perforate_Oil",
     "stats": [
       "RPM: 0.25",
-      "NoOrgans: '''X'''"
+      "No Organs Drop"
     ]
   },
   {
@@ -1320,7 +1320,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Puncture_Oil",
     "stats": [
       "Crit Chance: 0.15",
-      "NoOrgans: '''X'''"
+      "No Organs Drop"
     ]
   },
   {
@@ -1503,7 +1503,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Scramble_Oil",
     "stats": [
       "Bullet Bounces: 2",
-      "NoOrgans: '''X'''"
+      "No Organs Drop"
     ]
   },
   {
@@ -1549,7 +1549,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Sensible_Oil",
     "stats": [
       "Max Durability: 0.25",
-      "NoOrgans: '''X'''",
+      "No Organs Drop",
       "Does not increase durability loss"
     ]
   },
@@ -1597,7 +1597,7 @@
       "Damage Percent: -0.2",
       "Spread: 1.7",
       "Projectile Amount: 1",
-      "NoOrgans: '''X'''"
+      "No Organs Drop"
     ]
   },
   {
