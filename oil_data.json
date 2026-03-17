@@ -129,7 +129,7 @@
     "price": 500,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Bad_Planet_Oil",
     "stats": [
-      "Bullet Penetrations: 1",
+      "Bullet Penetrations: 2",
       "Jump Power: -0.3"
     ]
   },
@@ -265,7 +265,7 @@
     "price": 500,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Bystander_Oil",
     "stats": [
-      "Bullet Penetrations: 1",
+      "Bullet Penetrations: 2",
       "Disables Aiming"
     ]
   },
@@ -779,7 +779,7 @@
     "price": 900,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Gunslinger_Oil",
     "stats": [
-      "Reload Speed: 0.4",
+      "Reload Speed: 0.75",
       "Disables Aiming"
     ]
   },
@@ -1755,7 +1755,7 @@
     "wiki_link": "https://sulfur.wiki.gg/wiki/Stoic_Oil",
     "stats": [
       "No Money Drops",
-      "Spread: -0.5"
+      "Spread: -0.6"
     ]
   },
   {
@@ -1783,7 +1783,7 @@
     "price": 800,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Synchronicity_Oil",
     "stats": [
-      "Bullet Bounces: 3",
+      "Bullet Bounces: 4",
       "Consume Extra Ammo Chance: 0.25"
     ]
   },
@@ -1792,7 +1792,7 @@
     "price": 650,
     "wiki_link": "https://sulfur.wiki.gg/wiki/Tactical_Oil",
     "stats": [
-      "Damage Percent: -.2",
+      "Damage Percent: -.1",
       "Reload Speed: 1.1"
     ]
   },
